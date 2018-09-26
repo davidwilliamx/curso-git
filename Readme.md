@@ -1,1 +1,2 @@
-Repositorio curso de git basico
+
+Repositório para o curso de git.
